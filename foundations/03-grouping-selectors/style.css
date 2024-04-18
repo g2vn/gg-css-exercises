@@ -1,0 +1,14 @@
+.largeinvertCatch, .largeYellow{
+    font-family: Helvetica, "Times New Roman", sans-serif;
+    font-size: 28px;
+}
+
+.largeinvertCatch{
+    color: white;
+    background-color: black;
+    font-weight: bold;
+}
+
+.largeYellow{
+    background-color: yellow;
+}
