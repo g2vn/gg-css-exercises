@@ -1,0 +1,19 @@
+.odd {
+    background-color: hsla(0, 100%, 50%, 33%);
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.withFlair{
+    font-size: 24px;
+}
+
+#spc1 {
+    font-size: 36px;
+    color: blue;
+}
+
+#spc2 {
+    background-color: hsla(120, 100%, 50%, 40%);
+    font-size: 24px;
+    font-weight: bold
+}
